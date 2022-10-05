@@ -1,4 +1,4 @@
-Replicate the results with a pretrained recurrent convolutional neural network.
+This git repository provides all the files required to replicate the results of my thesis, deep learning methodologies in frug kinase prediction. The repository comes with a pretrained recurrent convolutional neural network, that is tested using the benchmarking data set provided in [IDG-DREAM challenge](https://www.nature.com/articles/s41467-021-23165-1).
 
 Requires following libraries
   * pytorch
